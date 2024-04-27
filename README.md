@@ -1,6 +1,10 @@
 # marketframe_license
 License keys for every month.
 
+* Password hash before 15th of the month : May 005707952636cefd03156e73383814c8be9f597bab97b4d43313705a4816a127
+
+* Password hash after 15th of the month: May 1c57a993a2f5cb992ebb1db3bb6931b9d3ce7a35716d318423d743abcbb0e8f1
+
 
 
 * Password hash before 15th of the month : April 8cba8c89680b580986d1c7bc43d485c1b2be62bb025ecdc2d37909d4f19c1fb5
