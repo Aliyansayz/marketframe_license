@@ -1,6 +1,15 @@
 # marketframe_license
 
 # Download Link  
+
+* Latest version v0.1.8 Final Build ===> https://drive.google.com/file/d/16tVVVZKi_Ju7vpayFIZ1wQL3rHxFBMyq/view?usp=drive_link
+
+* Moving Average Ribbon
+* AUTOPILOT MODE COMING SOON
+* Volatality Meter Added
+* Forex Top Movers Pairs Visualization
+
+* Version v0.1.7 Final Build
 https://drive.google.com/file/d/1a1w6fcrCTXOpR-31V097ScFTD89Srmep/view?usp=sharing
 
 License keys for every month.
